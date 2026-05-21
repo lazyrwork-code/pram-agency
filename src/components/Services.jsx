@@ -15,9 +15,9 @@ const services = [
     shadowColor: 'hover:shadow-blue-100',
     gradientBg: 'bg-gradient-to-br from-blue-400 to-emerald-500',
     images: [
-      './public/images/HRIS-1.png',
-      './public/images/HRIS-2.png',
-      './public/images/HRIS-3.png',
+      './images/HRIS-1.png',
+      './images/HRIS-2.png',
+      './images/HRIS-3.png',
     ],
     features: ['Manajemen Data Karyawan', 'Absensi & Jadwal Kerja', 'Penggajian Otomatis', 'Laporan & Analitik'],
     modalDesc: 'HRIS kami membantu perusahaan Anda mengelola seluruh siklus SDM — dari rekrutmen hingga pensiun — dalam satu dashboard yang intuitif dan mudah digunakan.',
@@ -36,9 +36,9 @@ const services = [
     shadowColor: 'hover:shadow-indigo-100',
     gradientBg: 'bg-gradient-to-br from-blue-400 to-indigo-600',
     images: [
-      './public/images/DigitalSKP.png',
-      './public/images/Manajemen.jpg',
-      './public/images/Preview-ttd.jpg'
+      './images/DigitalSKP.png',
+      './images/Manajemen.jpg',
+      './images/Preview-ttd.jpg'
     ],
     features: ['Tanda Tangan Digital', 'Verifikasi Barcode', 'Manajemen Dokumen', 'Alur Persetujuan Otomatis'],
     modalDesc: 'Digital SKP mengubah proses penilaian kinerja yang rumit menjadi alur digital yang transparan, cepat, dan dapat diverifikasi kapan saja menggunakan barcode unik.',
